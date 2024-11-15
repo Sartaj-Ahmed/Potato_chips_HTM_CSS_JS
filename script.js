@@ -1,4 +1,4 @@
-var swiper = new Swiper(".Tslider" , {
+var swiper = new swiper(".Tslider" , {
     autoplay:{
         delay:2000,
     },
